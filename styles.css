@@ -1,0 +1,8 @@
+.pic-row {
+    display: flex;
+}
+
+.col {
+    flex: 33.33%;
+    padding: 0px;
+}
